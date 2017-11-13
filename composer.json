@@ -1,0 +1,17 @@
+{
+    "name": "pedromazala/zenvia",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Mázala",
+            "email": "pedroh.mazala@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zenvia\\": "src/"
+        }
+    },
+}

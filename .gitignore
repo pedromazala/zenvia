@@ -1,0 +1,8 @@
+# third
+/vendor/
+
+# ide
+/.idea/
+
+# junk
+.DS_Store
